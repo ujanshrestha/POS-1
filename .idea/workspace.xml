@@ -15,6 +15,7 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
+    <option name="SORT_POSITIONED" value="false" />
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
